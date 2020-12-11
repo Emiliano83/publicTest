@@ -1,0 +1,1 @@
+Questo file è aggiunto per riprenderlo in locale dove è già stata fatto un git clone fare un git pull
