@@ -1,1 +1,2 @@
-Questo file è aggiunto dal client fisico 
+Questo file è aggiunto dal client fisico .
+Successivamente modificato qui.
