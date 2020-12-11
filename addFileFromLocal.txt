@@ -1,2 +1,6 @@
-Questo file è aggiunto dal client fisico .
-Successivamente modificato qui.
+Questo file è aggiunto dal client fisico.
+Ovvero l'ho creato io da windows.
+Una volta creato dalla gui bash all'interno del repository locale digitare il comando
+1) git status: il quale ci informa del fatto che questo file è stato aggiunto localmente se lo voglio aggiungere alla
+staging area basta digitare il comando 
+2)git add addFileFromLocal
