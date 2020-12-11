@@ -1,1 +1,3 @@
-Questo file è aggiunto per riprenderlo in locale dove è già stata fatto un git clone fare un git pull
+Questo file è aggiunto successivamente ad una clone. 
+Per riprenderlo in locale dove è già stata fatto un git clone fare un git pull.
+Oltretutto ogni volta che ci si collega fare un git pull in quanto questa riga aggiunta successivamente non verrebbe visualizzata!!!.
